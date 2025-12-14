@@ -9,4 +9,6 @@ This is the repository of the activity III
 
 ## Actions activity IV
 
-- Added styles.css file in css folder
+- Added styles.css file in css folder.
+- Added styles.css in the index file as a link.
+- Added about.html page and modify links and styles of the header menu.
